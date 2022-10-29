@@ -9,3 +9,31 @@
 a{
     text-decoration: none;
 }
+
+.container{
+    background: #e1caca;
+}
+
+.header{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    padding: 20px;
+    border-bottom: 2px solid black;
+}
+.header img{
+    width: 80px;
+    height: 40px;
+
+}
+.header a{
+    font-size: 18px;
+    color: blue;
+    padding: 30px;
+}
+.header ion-icon{
+    font-size: 25px;
+    color: blue;
+}
+
+
